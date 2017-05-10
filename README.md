@@ -4,7 +4,7 @@ Train Classifiers for Context Classification
 ## Run Train Classify
 
 ```
-python TrainClassifier.py city
+python TrainClassifier.py cities
 ```
 
 ```
